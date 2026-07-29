@@ -58,6 +58,11 @@ random-forest-machine-learning-project/
 🔗 **Live Application:** [Try the Random Forest App](https://random-forest-017.streamlit.app/)
 
 
+## 🎯 Project Objective
+
+The objective of this project is to understand and implement the Random Forest algorithm for predictive analysis and evaluate its performance on a real-world dataset.
+
+
 ## 👤 Author
 
 **Krushna Saindane**  
